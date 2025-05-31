@@ -1,5 +1,7 @@
 # Tick-Tock
 
+A silly analog clock web app.
+
 ## Run
 
 ```bash
